@@ -116,7 +116,7 @@ h1::after {
 }
 
 .header-content-right-block::before {
-    content: url(/img/ice-creame.png);
+    content: url(../img/ice-creame.png);
     position: absolute;
     left: 580px;
     top: 150px;
@@ -461,13 +461,13 @@ h1::after {
 }
 
 .adele-description p::after {
-    content: url(/img/brackets-bottom.png);
+    content: url(../img/brackets-bottom.png);
     position: absolute;
     top: 50px;
 }
 
 .adele-description p::before {
-    content: url(/img/brackets-top.png);
+    content: url(../img/brackets-top.png);
     position: absolute;
     top: -2px;
     left: -14px;
@@ -516,7 +516,7 @@ h1::after {
 }
 
 .raspberry::before {
-    content: url(/img/raspberry.png);
+    content: url(../img/raspberry.png);
     display: block;
     position: absolute;
     border-radius: 40px;
@@ -585,7 +585,7 @@ h1::after {
     display: block;
     width: 30px;
     height: 30px;
-    background: url(/img/curcor.png) #FFFFFF no-repeat center;
+    background: url(../img/curcor.png) #FFFFFF no-repeat center;
     border-radius: 3px;
     position: absolute;
     left: 0;
@@ -597,7 +597,7 @@ h1::after {
     display: block;
     width: 30px;
     height: 30px;
-    background: url(/img/basket.png) #FFFFFF no-repeat center;
+    background: url(../img/basket.png) #FFFFFF no-repeat center;
     border-radius: 3px;
     position: absolute;
     left: 0;
@@ -609,7 +609,7 @@ h1::after {
     display: block;
     width: 30px;
     height: 30px;
-    background: url(/img/notebook.png) #FFFFFF no-repeat center;
+    background: url(../img/notebook.png) #FFFFFF no-repeat center;
     border-radius: 3px;
     position: absolute;
     left: 0;
